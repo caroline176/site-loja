@@ -1,0 +1,49 @@
+*{padding:0;margin:0;box-sizing: border-box; font-family:Helvetica;}
+
+/*Cabeçalho*/
+header{
+	background-color: #290545;
+	color: #fff;
+	padding: 15px;
+	text-align: center;
+	border-bottom: 10px solid #290545;
+	height: 110px;
+}
+
+Busca{
+	text-align: center;
+	width: 20%
+	margin-top: -60px
+}
+.Busca input{
+	height: 20px;
+	width: 200px;
+	margin-top: 25px;
+	padding: 12px;
+	background-position: 20px;
+	border: 1px solid #fff;
+	background-color: #fff;
+	border-radius: 50px;
+}
+/*Grid de produtos*/
+.container{
+    background-color: #E8E1EC;
+	min-height: 50vh;
+	padding: 120px;
+}
+.card{
+	width: 31%;
+	display: inline-block;
+	margin-left: 30px;
+}
+
+footer{
+	background-color: #290545; 
+	color: #583B6A;
+	border-top: 10px solid #290545;
+	padding: 50px;
+	font-size: 24px;
+}
+
+
+
